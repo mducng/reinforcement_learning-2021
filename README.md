@@ -1,3 +1,5 @@
+https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+
 # reinforcement_learning-2021
 Implementation of various reinforcement learning algorithms in examples from the book "Reinforcement Learning: An Introduction, by Sutton and Barto".
 
