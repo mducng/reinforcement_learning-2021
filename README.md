@@ -1,6 +1,10 @@
 https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
 
-# reinforcement_learning-2021
+## a book:
+
+http://lib.21h.io/library/CVHB3VFM/download/W59XI6I2/2019_Deep_Learning_Illustrated_-_A_Visual%2C_Interactive_Guide_to_Artificial_Addison-Wesley_Professional.pdf
+
+## reinforcement_learning-2021
 Implementation of various reinforcement learning algorithms in examples from the book "Reinforcement Learning: An Introduction, by Sutton and Barto".
 
 Up until now, the following algorithms have been implemented:
